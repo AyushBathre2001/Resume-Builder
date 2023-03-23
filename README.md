@@ -1,8 +1,8 @@
-## Resume Builder | React
+## Resume Builder
 
 ### About
 
-Resume-Builder is single page web application created in React Library.
+You can create and download your resume with the help of this online resume builder. 
 
 ### How to use
 
